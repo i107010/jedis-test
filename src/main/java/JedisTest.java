@@ -21,5 +21,7 @@ public class JedisTest {
 
         System.out.println("v4.0");
         System.out.println("v5.0");
+        
+        System.out.println("v6.0 by github");
     }
 }
