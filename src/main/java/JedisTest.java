@@ -12,5 +12,8 @@ public class JedisTest {
         System.out.println("v2.0");
 
 //        jedis.close();
+
+
+        System.out.println("v3.0 from master");
     }
 }
